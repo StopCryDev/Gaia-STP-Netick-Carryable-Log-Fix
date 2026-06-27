@@ -32,13 +32,13 @@ This repository does **not** contain or redistribute any proprietary assets or s
 ## Documentation
 
 * 📖 **View PDF (GitHub)**
-  [GaiaPro_STP_Carryable_Log_Fix.pdf](./Gaia Pro VS + STP Multiplayer (Netick).pdf)
+  [GaiaPro_STP_Carryable_Log_Fix.pdf](./GaiaPro_STP_Carryable_Log_Fix.pdf)
 
 * 📖 **Read Online (Google Docs)**
   https://docs.google.com/document/d/1lJ0x4hyoOd6w9qAqnAHWShJ5kZ26GfLtMKnegp2DLG8/edit?usp=sharing
 
 * 📥 **Download PDF**
-  [GaiaPro_STP_Carryable_Log_Fix.pdf](./Gaia Pro VS + STP Multiplayer (Netick).pdf)
+  [GaiaPro_STP_Carryable_Log_Fix.pdf](./GaiaPro_STP_Carryable_Log_Fix.pdf)
 
 ---
 
